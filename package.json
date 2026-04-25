@@ -1,0 +1,38 @@
+{
+  "name": "@cutad/moviebox-api",
+  "version": "1.0.0",
+  "description": "CUTAD MovieBox API — Movie, Series, K-Drama, Anime & lebih banyak lagi",
+  "type": "module",
+  "main": "src-js/client.mjs",
+  "exports": {
+    ".": "./src-js/client.mjs"
+  },
+  "scripts": {
+    "example": "node examples/javascript.mjs"
+  },
+  "keywords": [
+    "cutad",
+    "moviebox",
+    "streaming",
+    "api",
+    "sdk",
+    "video",
+    "hls",
+    "m3u8",
+    "subtitle"
+  ],
+  "homepage": "https://www.cutad.web.id/docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rudiansyah1998/moviebox-api"
+  },
+  "bugs": {
+    "url": "https://github.com/rudiansyah1998/moviebox-api/issues",
+    "email": "akunmyid@gmail.com"
+  },
+  "author": "CUTADX <akunmyid@gmail.com> (https://www.cutad.web.id)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
